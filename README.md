@@ -6,7 +6,7 @@ The official latest documents for Hyperledger Fabris is [here](https://openblock
 
 ## Awesome Hyperledger Fabric
 
-### Tutorial
+### Tutorials
 * [IBM Blockchain 101: Quick-start guide for developers](https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/)
 * Hyperledger Fabric Tutorial
   * [part 1](https://blockgeeks.com/guides/hyperledger-fabric-tutorial-part-1/)
