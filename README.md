@@ -19,3 +19,7 @@ The official latest documents for Hyperledger Fabris is [here](https://openblock
 * [A Beginner’s Guide to SideDBs and Private Data for Hyperledger Fabric](https://medium.com/@juarezjunior/golang-and-hyperledger-fabric-chaincode-development-with-vs-code-quick-step-by-step-guide-7a6456f80307)
 * [Hyperledger Fabric Getting Started Tutorial + Installation Guide](https://www.srcmake.com/home/fabric)
 * [Step By Step Guide to Install Hyperledger in Ubuntu](https://www.techaroha.com/step-by-step-guide-to-install-hyperledger-fabric-in-ubuntu/)
+
+* [Demo of Multi-Channel Network in Hyperledger Fabric](https://medium.com/@kctheservant/demo-of-multi-channel-network-in-hyperledger-fabric-640f7158e2d3)
+* [Demo of Three-Node Two-Channel Setup in Hyperledger Fabric](https://medium.com/@kctheservant/demo-of-three-node-two-channel-setup-in-hyperledger-fabric-54ba8a9c461f)
+
