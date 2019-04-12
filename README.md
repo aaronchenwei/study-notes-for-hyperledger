@@ -23,3 +23,8 @@ The official latest documents for Hyperledger Fabris is [here](https://openblock
 * [Demo of Multi-Channel Network in Hyperledger Fabric](https://medium.com/@kctheservant/demo-of-multi-channel-network-in-hyperledger-fabric-640f7158e2d3)
 * [Demo of Three-Node Two-Channel Setup in Hyperledger Fabric](https://medium.com/@kctheservant/demo-of-three-node-two-channel-setup-in-hyperledger-fabric-54ba8a9c461f)
 
+### Tools
+* [Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)
+  Amazon Managed Blockchain is a fully managed service that makes it easy to create and manage scalable blockchain networks using the popular open source frameworks Hyperledger Fabric and Ethereum.
+  
+* https://www.fabricdeployer.com/
